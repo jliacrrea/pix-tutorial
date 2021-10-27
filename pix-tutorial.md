@@ -2,7 +2,7 @@
 - [What is PIX?](#what-is-pix-)
 - [What is a PIX Key?](#what-is-a-pix-key-)
 - [How to Set Up a PIX Key](#how-to-set-up-a-pix-key)
-  * [Hands On Example: Nubank](#hands-on-example--nubank)
+  * [Hands-On Example: Nubank](#hands-on-example--nubank)
 - [Related Topics](#related-topics)
 
 # What is PIX?
@@ -13,7 +13,7 @@ There are several ways to use PIX. The main one is to fill in the receiver’s p
 
 # What is a PIX Key?
 
-A PIX key is a way to simplify how a bank identifies your account. They are unique, like digital fingerprints, and provide agility and safety during transactions by providing the sender with a token to automatically fill in your details instead of manually typing them one by one.
+A PIX key is a way to simplify how a bank identifies your account. They are unique, like digital fingerprints, and ensures agility and safety during transactions by providing the sender with a token to automatically fill in your details instead of manually typing them one by one.
 
 You can possess up to 5 PIX keys, and each key you register needs to be associated with a financial account, such as a checking account or a payment account. Below, you will find a few examples of valid forms of PIX keys:
 
@@ -47,7 +47,7 @@ Below, you will find a few examples of how to set up a PIX key in other financia
   </tr>
 </table>
 
-## Hands On Example: Nubank
+## Hands-On Example: Nubank
 
 1. Open the Nubank app.
 2. On the index page, tap the user icon located on the top of the page.
@@ -61,4 +61,4 @@ Below, you will find a few examples of how to set up a PIX key in other financia
 # Related Topics
 * <a href="/">How to transfer my key to a different institution</a>
 * <a href="/">How to delete a PIX key</a>
-* <a href="/">How to pay someone with PIX</a>
+* <a href="/">How to use PIX with a CNPJ</a>
